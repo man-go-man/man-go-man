@@ -16,3 +16,5 @@
 #### Follow me
 [![Youtube](https://img.shields.io/badge/-youtube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@man-go-man)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=b4068E)](https://instagram.com/man.go.man)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=man-go-man&show_icons=true&theme=gruvbox)](https://github.com/man-go-man/github-readme-stats)
