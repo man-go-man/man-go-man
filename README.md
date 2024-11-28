@@ -1,9 +1,9 @@
-[![Header](https://github.com/man-go-man/man-go-man/blob/main/Assets/header.png)](https://www.youtube.com/@man-go-man)
+![Header](https://github.com/man-go-man/man-go-man/blob/main/Assets/header.png)
 
 #### I`m a QA Engineer, Process Automation Engineer, Master of Sports in bench press, Nutrigenetic and Hiker
 
 #### Languages and Tools
-![DevTools](https://img.shields.io/badge/-devtools-090909?style=for-the-badge&logo=devtools&logoColor=006500)
+![DevTools](https://img.shields.io/badge/-devtools-090909?style=for-the-badge&logo=googlechrome&logoColor=)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=006488)
