@@ -12,7 +12,10 @@
 ![Github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github&logocolor=)
 ![Selenium_IDE](https://img.shields.io/badge/-selenium_IDE-090909?style=for-the-badge&logo=selenium&logocolor=006488)
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
+<<<<<<< HEAD
 
 ### Follow me
 [![Youtube](https://img.shields.io/badge/-youtube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@man-go-man)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=b4068E)](https://instagram.com/man.go.man)
+=======
+>>>>>>> cf608b0f5b20efea78f4a82706796726d5d8f317
