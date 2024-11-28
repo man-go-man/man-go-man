@@ -10,8 +10,10 @@
 ![TestIT](https://img.shields.io/badge/-testit-282828?style=for-the-badge&logo=testit&logocolor=006488)
 ![TestRail](https://img.shields.io/badge/-testrail-282828?style=for-the-badge&logo=testrail&logocolor=)
 ![Github](https://img.shields.io/badge/-github-282828?style=for-the-badge&logo=github&logocolor=)
-![Selenium_IDE](https://img.shields.io/badge/-selenium_IDE-282828?style=for-the-badge&logo=selenium&logocolor=006488)
+![Selenium](https://img.shields.io/badge/-selenium-282828?style=for-the-badge&logo=selenium&logocolor=006488)
 ![Python](https://img.shields.io/badge/-python-282828?style=for-the-badge&logo=python)
+![VSCode](https://img.shields.io/badge/-vscode-282828?style=for-the-badge&logo=vscode&logocolor)
+![Mintty](https://img.shields.io/badge/-mintty-282828?style=for-the-badge&logo=mintty&logocolor)
 
 #### Follow me
 [![Youtube](https://img.shields.io/badge/-youtube-282828?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@man-go-man)
